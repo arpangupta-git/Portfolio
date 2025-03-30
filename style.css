@@ -198,7 +198,7 @@
   }
   
   .info-sec h1{
-    font-size: 35px;
+    font-size: 55px;
     text-transform: uppercase;
     background:linear-gradient(to right, #4acfee, #53f8c9, #6070fd, #5bbdff, #4acfee);
     background-size: 200%;
@@ -211,7 +211,7 @@
   
   .info-sec p{
     color: white;
-    font-size: 15px;
+    font-size: 20px;
   }
   
   @media (min-width: 1220px) {
